@@ -1,5 +1,5 @@
 - Olá, sou Augusto dos Santos
-- BCC UFSCar 021
+- Bacharelando em Ciência da Computação pela UFSCar 021
 - Atualmente estudando C, C++ e Python
-- Aprendendo a usar o Github ainda
+- Interesse em sistema operacionais
 - Contato augustodsgv@gmail.com
