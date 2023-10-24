@@ -1,5 +1,5 @@
 - Olá, sou Augusto dos Santos
 - Bacharelando em Ciência da Computação pela UFSCar 021
 - Atualmente estudando C, C++ e Python
-- Interessado por infra
+- Interessado por infra, devOps, containers, sistemas operacionais e redes
 - Contato augustodsgv@gmail.com
