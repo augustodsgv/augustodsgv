@@ -11,14 +11,15 @@
 
 ## Technologies 👨🏻‍💻
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C language logo" width="40" height="40"\>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C language" alt="C language logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++ language logo" width="40" height="40"\>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python logo" width="40" height="40"\>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git logo" width="40" height="40"\>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="git hub" alt="github logo" width="40" height="40"\>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt= "docker logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="Fedora logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu logo" width="40" height="40"\>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash script" width="40" height="40"\>
 </div>
 
 
