@@ -9,16 +9,6 @@
 * 🔟 I'm very curious about low level computing and operating systems
 * 👨🏻‍🦱 My pronouns are He / Him
 
-## Contact me
-<div id="badges">
-  <a href="https://linkedin.com/in/augustodsgv">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt=LinkedIn Badge\>
-  </a>
-  <a href="mailto:augustodsgv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt=Gmail\>
-  </a>
-</div>
-
 ## Technologies 👨🏻‍💻
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C language logo" width="40" height="40"\>
@@ -29,4 +19,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt= "docker logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="Fedora logo" width="40" height="40"\>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu logo" width="40" height="40"\>
+</div>
+
+
+## Contact me
+<div id="badges">
+  <a href="https://linkedin.com/in/augustodsgv">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt=LinkedIn Badge\>
+  </a>
+  <a href="mailto:augustodsgv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt=Gmail\>
+  </a>
 </div>
